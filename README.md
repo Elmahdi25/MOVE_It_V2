@@ -29,7 +29,7 @@ This is a fictional business and a frontend learning project. Its purpose is to 
 
 ## Preview
 
-https://elmahdi25.github.io/MOVE-It/html/about.html
+https://elmahdi25.github.io/MOVE_It_V2/
 
 **A quick tour:** start on the homepage, explore the services, then try the moving-request form.
 ![contact and modal](docs/contact_modal.gif)
